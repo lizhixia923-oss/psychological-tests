@@ -1,0 +1,2505 @@
+{
+    "e": 0,
+    "m": "操作成功",
+    "d": {
+        "total": 96,
+        "list": [
+            {
+                "id": 1,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "不适应大学的生活方式",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 1
+            },
+            {
+                "id": 2,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "担心找不到好工作",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 2
+            },
+            {
+                "id": 3,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "感觉学习有困难",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 3
+            },
+            {
+                "id": 4,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "感觉为恋爱所累",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 4
+            },
+            {
+                "id": 5,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "不习惯大学班集体的氛围",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 5
+            },
+            {
+                "id": 6,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "挑剔学校的饮食或住宿条件",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 6
+            },
+            {
+                "id": 7,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "担心在学习上落后于其他同学",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 7
+            },
+            {
+                "id": 8,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "感觉不受同学欢迎",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 8
+            },
+            {
+                "id": 9,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "和班里同学相处不愉快",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 9
+            },
+            {
+                "id": 10,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "对自己的求职能力没有信心",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 10
+            },
+            {
+                "id": 11,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "跟周围人有矛盾",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 11
+            },
+            {
+                "id": 12,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "在恋爱方面受到家人的阻碍",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 12
+            },
+            {
+                "id": 13,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "总担心自己找不到合适的男\/女朋友",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 13
+            },
+            {
+                "id": 14,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "付出很大努力却仍跟不上学习进度",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 14
+            },
+            {
+                "id": 15,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "很多时候感觉不被周围人理解",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 15
+            },
+            {
+                "id": 16,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "担心考试",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 16
+            },
+            {
+                "id": 17,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "为不知该做哪些就业准备而迷茫",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 17
+            },
+            {
+                "id": 18,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "害怕面对就业问题",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 18
+            },
+            {
+                "id": 19,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "谈恋爱对学习、生活造成负面影响",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 19
+            },
+            {
+                "id": 20,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "不喜欢现在的学校",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 20
+            },
+            {
+                "id": 21,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "与别人相处时常感到委屈",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 21
+            },
+            {
+                "id": 22,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "过分在意别人的评价",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 22
+            },
+            {
+                "id": 23,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "控制不了自己的进食量",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 23
+            },
+            {
+                "id": 24,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "经常感到别人要欺骗、利用自己",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 24
+            },
+            {
+                "id": 25,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "经常无法控制自己激动的情绪",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 25
+            },
+            {
+                "id": 26,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "顽固地遵守某些规则或习惯，害怕改变",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 26
+            },
+            {
+                "id": 27,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "故意阻止伤口愈合",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 27
+            },
+            {
+                "id": 28,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "早上醒来情绪就很低落",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 28
+            },
+            {
+                "id": 29,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "害怕与人交往",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 29
+            },
+            {
+                "id": 30,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "经常莫名其妙对别人发火",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 30
+            },
+            {
+                "id": 31,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "常常自责内疚",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 31
+            },
+            {
+                "id": 32,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "经常想打人、骂人或毁坏东西",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 32
+            },
+            {
+                "id": 33,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "身体发麻或刺痛",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 33
+            },
+            {
+                "id": 34,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "时刻都离不开网络",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 34
+            },
+            {
+                "id": 35,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "感觉自己在各方面都很失败",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 35
+            },
+            {
+                "id": 36,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "无法忍受不能上网的生活",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 36
+            },
+            {
+                "id": 37,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "反应迟钝，注意力不集中",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 37
+            },
+            {
+                "id": 38,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "有催吐或绝食的行为",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 38
+            },
+            {
+                "id": 39,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "总是责怪别人造成麻烦",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 39
+            },
+            {
+                "id": 40,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "感觉自己毫无价值",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 40
+            },
+            {
+                "id": 41,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "忍不住攻击那些令我不满的人",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 41
+            },
+            {
+                "id": 42,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "总觉得别人比自己好",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 42
+            },
+            {
+                "id": 43,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "上网过度影响到正常学习生活",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 43
+            },
+            {
+                "id": 44,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "没有人安排就不知道该做什么",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 44
+            },
+            {
+                "id": 45,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "总担心会有不好的事情发生而内心不安",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 45
+            },
+            {
+                "id": 46,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "总感觉有人在针对我",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 46
+            },
+            {
+                "id": 47,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "感觉大多数人不可信任",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 47
+            },
+            {
+                "id": 48,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "总觉得自己不如别人",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 48
+            },
+            {
+                "id": 49,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "故意抓、戳、咬、撕皮肤至流血",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 49
+            },
+            {
+                "id": 50,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "常常刚做完一件事就后悔了",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 50
+            },
+            {
+                "id": 51,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "故意虐待自己",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 51
+            },
+            {
+                "id": 52,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "经常无缘无故地对别人发火",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 52
+            },
+            {
+                "id": 53,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "时常因小事而坐立难安",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 53
+            },
+            {
+                "id": 54,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "凡事需要有人替自己做决定",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 54
+            },
+            {
+                "id": 55,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "容易被别人的言行伤害",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 55
+            },
+            {
+                "id": 56,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "睡眠过浅、易醒",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 56
+            },
+            {
+                "id": 57,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "如果不反复想和做某些事情，就无法继续其他的事",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 57
+            },
+            {
+                "id": 58,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "做任何事都希望能够获得别人的帮助",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 58
+            },
+            {
+                "id": 59,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "常常没考虑清楚就做决定",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 59
+            },
+            {
+                "id": 60,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "回避与异性交往",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 60
+            },
+            {
+                "id": 61,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "感觉自己再努力也无法成功",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 61
+            },
+            {
+                "id": 62,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "故意烧、烫伤自己",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 62
+            },
+            {
+                "id": 63,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "为脑海中总是抹不去的想法或字句所困扰",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 63
+            },
+            {
+                "id": 64,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "觉得生活无意义，对任何事都不感兴趣",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 64
+            },
+            {
+                "id": 65,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "言行常常不考虑后果",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 65
+            },
+            {
+                "id": 66,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "食欲和进食行为异常，如：吞咽困难、恶心、呕吐等",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 66
+            },
+            {
+                "id": 67,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "入睡困难或早醒",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 67
+            },
+            {
+                "id": 68,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "胸闷、呼吸困难",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 68
+            },
+            {
+                "id": 69,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "与人交谈时过分紧张",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 69
+            },
+            {
+                "id": 70,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "恶心或胃痛",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 70
+            },
+            {
+                "id": 71,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "头痛或头晕",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 71
+            },
+            {
+                "id": 72,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "一旦开始上网就很难停下来",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 72
+            },
+            {
+                "id": 73,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "没理由地害怕、心神不宁",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 73
+            },
+            {
+                "id": 74,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "感觉别人都看不起自己",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 74
+            },
+            {
+                "id": 75,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "在网络上花费了过多的时间",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 75
+            },
+            {
+                "id": 76,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "别人的言行很容易让我感到受伤",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 76
+            },
+            {
+                "id": 77,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "经常控制不住自己的手或身体发抖、僵直",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 77
+            },
+            {
+                "id": 78,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "如果不重复做某件事情，如检查\/核对\/洗涤或问询，就会觉得很焦虑",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 78
+            },
+            {
+                "id": 79,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "过度嗜睡",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 79
+            },
+            {
+                "id": 80,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "避免与别人眼神接触",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 80
+            },
+            {
+                "id": 81,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "经常和人产生争执",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 81
+            },
+            {
+                "id": 82,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "对别人都不在意的事情很在意",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 82
+            },
+            {
+                "id": 83,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "当和别人观点不一致时会感到焦虑",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 83
+            },
+            {
+                "id": 84,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "做任何事都离不开别人的帮助",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 84
+            },
+            {
+                "id": 85,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "不敢正视别人的目光",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 85
+            },
+            {
+                "id": 86,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "过度节食",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 86
+            },
+            {
+                "id": 87,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "很多事情都无法自己独立处理",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 87
+            },
+            {
+                "id": 88,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "睡醒后依然感到疲乏",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 88
+            },
+            {
+                "id": 89,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "能听到旁人听不到的言语声（不是指听力好）",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 89
+            },
+            {
+                "id": 90,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "总感觉有人要害我",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 90
+            },
+            {
+                "id": 91,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "考虑过自杀的方式或时机",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 91
+            },
+            {
+                "id": 92,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "想结束生命",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 92
+            },
+            {
+                "id": 93,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "曾经有过自杀行为",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 93
+            },
+            {
+                "id": 94,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "曾经羡慕自杀成功的人",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 94
+            },
+            {
+                "id": 95,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "总感觉有人在监视我",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 95
+            },
+            {
+                "id": 96,
+                "scale_id": 1,
+                "question_content": {
+                    "title": "感觉别人能操控我的思想（不是指自身言行受他人言行影响）",
+                    "options": [
+                        {
+                            "label": "一点也不像我",
+                            "score": 1
+                        },
+                        {
+                            "label": "不太像我",
+                            "score": 2
+                        },
+                        {
+                            "label": "比较像我",
+                            "score": 3
+                        },
+                        {
+                            "label": "非常像我",
+                            "score": 4
+                        }
+                    ]
+                },
+                "question_num": 96
+            }
+        ]
+    }
+}
