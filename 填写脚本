@@ -1,0 +1,49 @@
+(async function () {
+  /* ===== 配置 ===== */
+  const MODE = 'random';      // 'random' = 每题随机 1~4；或填 1~4 统一选项
+  const WAIT = 400;           // 每题间隔(毫秒)，太快了可能有防刷校验，别调太小
+  const PAUSE_SUICIDE = true; // 遇到第91~94题(自杀相关)时暂停，手动如实作答
+  /* ================ */
+
+  const SUICIDE = ['考虑过自杀', '想结束生命', '曾经有过自杀行为', '曾经羡慕自杀成功'];
+  const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+  function click(el) {
+    ['pointerdown','mousedown','pointerup','mouseup','click'].forEach(t =>
+      el.dispatchEvent(new (t.startsWith('pointer') ? PointerEvent : MouseEvent)(t, { bubbles: true, cancelable: true, view: window }))
+    );
+  }
+
+  for (let i = 0; i < 96; i++) {
+    // 等待选项加载
+    let opts = [];
+    for (let w = 0; w < 20; w++) {
+      opts = [...document.querySelectorAll('.option-btn')];
+      if (opts.length >= 4) break;
+      await sleep(200);
+    }
+    if (opts.length < 4) { console.log(`⚠️ 第 ${i+1} 题未找到选项，已停止。把进度发我，可断点续填`); break; }
+
+    // 检查题干
+    const qText = document.querySelector('.question-text')?.textContent || '';
+    if (PAUSE_SUICIDE && SUICIDE.some(k => qText.includes(k))) {
+      alert('⏸ 遇到自杀风险相关题目，请手动如实作答，完成后在 Console 输入 resume() 继续');
+      window.resume = () => {};
+      await new Promise(r => { window.resume = r; });
+    }
+
+    // 点击选项
+    const target = MODE === 'random' ? opts[Math.floor(Math.random() * 4)] : opts[MODE - 1];
+    click(target);
+    await sleep(300);
+
+    // 点"下一题/提交"
+    const next = [...document.querySelectorAll('button')].find(b => /下一题|提交|继续/.test(b.textContent));
+    if (!next) { console.log('⚠️ 找不到下一题按钮，已停止'); break; }
+    click(next);
+    await sleep(WAIT);
+
+    if (i % 20 === 0) console.log(`进度: ${i + 1}/96`);
+  }
+  console.log('✅ 脚本执行完毕');
+})();
